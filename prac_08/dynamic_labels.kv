@@ -1,0 +1,4 @@
+BoxLayout:
+    BoxLayout:
+        orientation: 'vertical'
+        id: main
